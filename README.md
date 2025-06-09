@@ -1,4 +1,5 @@
 **Contact Book app **
+
 Introduction
 The Phone Book Project is a comprehensive application designed to manage contact information efficiently. Developed using Java for the application logic and MySQL for the database management, this project aims to provide a user-friendly interface for storing, retrieving, updating, and deleting contact details.
 
